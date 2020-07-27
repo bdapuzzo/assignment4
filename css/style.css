@@ -95,3 +95,11 @@ ul li {
     left:1000px;
   }
 }
+
+.logo {
+  width: 100px;
+}
+
+.logo:hover{
+  width:300px;
+}
