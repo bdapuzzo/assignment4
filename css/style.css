@@ -98,8 +98,10 @@ ul li {
 
 .logo {
   width: 100px;
+  transition: 2s;
 }
 
 .logo:hover{
   width:300px;
+  transition: 2s;
 }
